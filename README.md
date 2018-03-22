@@ -6,4 +6,5 @@ https://developers.google.com/vision/android/detect-faces-tutorial
 Using Timber library for advanced loging and error reporting.
 Disables log on release builds.
 https://github.com/JakeWharton/timber
+
 https://medium.com/@caueferreira/timber-enhancing-your-logging-experience-330e8af97341
